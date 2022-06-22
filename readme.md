@@ -5,6 +5,7 @@ Demonstrates [scipy.optimize.least_squares](https://docs.scipy.org/doc/scipy/ref
 ## Build
 
 ```bash
+$ pip install -r requirements.txt
 $ python generate_input.py
 mat.shape=(501, 2)
 $ python fit.py

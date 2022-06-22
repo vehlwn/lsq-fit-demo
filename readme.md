@@ -15,4 +15,4 @@ Found params: [100.73464044   7.54338673]
 
 ## Examples
 
-[fitted-curve](./out.png)
+![fitted-curve](./out.png)
